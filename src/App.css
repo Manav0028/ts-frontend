@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  padding: 0;
+  margin: 20px;
+  /* Add a background color to match the chart */
+  /*background-color: #222;*/
+}
